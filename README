@@ -1,0 +1,7 @@
+This is a visualization of how the Gilbert-Johnson-Keerthi (GJK) Algorithm is used to detect a
+collision between two convex sets. The tool lets one create various (random) convex polygons, move
+them around and then check them for a collision. The visualization shows the  Minkowski difference
+of the two sets and the iterative process of checking if the origin is contained in this difference.
+This project has been done during a voluntary school project that contained an in depth analysis of the
+mathematical fundamentals of the algorithm. A writing of this analysis can be found in
+'Der_GJK_Algorithmus.pdf' in German language.
